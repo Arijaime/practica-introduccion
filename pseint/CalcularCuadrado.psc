@@ -1,11 +1,24 @@
 Proceso CalcuSquare
 	
-	definir base,potencia como real;
+	definir base,potencia,caso_prueba como real;
 	
 	
 	
 	Escribir 'Bienvenido a CalcuSquare';
-	Escribir 'ingrese el numero del que desea conocer el cuadrado';
+	Escribir 'Testeando programa : ';
+	
+	caso_prueba<-243;
+	
+	caso<-caso_prueba*caso_prueba;
+	
+	Escribir 'el cuadrado de 243 es : ', caso_prueba;
+	
+	escribir' - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ';
+	
+	
+	
+	
+	Escribir 'ingrese el numero del que desea conocer el cuadrado' Sin Saltar;
 	leer base;
 	
 	potencia <- base*base;

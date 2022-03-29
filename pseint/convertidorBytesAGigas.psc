@@ -4,7 +4,7 @@ Proceso ConvertidorBytesAGb
 	
 	unidad <- 1024;
 	Escribir 'Bienvenido a convertiSystem';
-	Escribir 'por favor Ingrese su valor en GigaBytes : ';
+	Escribir 'por favor Ingrese su valor en GigaBytes : ' sin saltar;
 	leer valorEnGigas;
 	valorEnBytes<- unidad*unidad*unidad*valorEnGigas;
 	
