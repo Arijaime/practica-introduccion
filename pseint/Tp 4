@@ -1,0 +1,15 @@
+1.1
+ Dada las siguientes iteraciones...
+a) se va a ejecutar siempre que la condicion sea falsa o mientras sea verdadera.
+b) no se ejecutarà ni una sola vez
+c) la condicion deberia indicarlo , por ejemplo condicion1 <11 , o condicion1<=10
+
+1.2
+ Dada las siguientes iteraciones...
+a)se va a ejecutar hasta que la condicion1 sea verdadera o mientras sea falsa.
+b)se va a ejecutar 1 vez
+c) cambiar la estructura, o no escribir acciones
+d) en esta estructura las acciones sea ejecutan al menos 1 vez.
+
+2
+Dada las siguientes composiciones de estructuras,describir en orden de las acciones que se ejecutaran 
